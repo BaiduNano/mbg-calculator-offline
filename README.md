@@ -23,7 +23,7 @@ python main.py
 
 ```bash
 pip install pyinstaller
-pyinstaller --name mbg_app --onefile main.py
+pyinstaller --name mbg_app --onefile --add-data "res/icon.png:res" --icon res/icon.png main.py
 ```
 
 Hasil build ada di folder `dist/`.

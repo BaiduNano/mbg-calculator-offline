@@ -1,4 +1,5 @@
 import sys
+import os
 from PyQt6.QtWidgets import QApplication
 from PyQt6.QtCore import QThread, pyqtSignal
 import requests
@@ -165,6 +166,10 @@ class MBGCalculator(MBGCalculatorUI):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
+    from PyQt6.QtGui import QIcon
+    icon_path = os.path.join(os.path.dirname(__file__), "res", "icon.png")
+    if os.path.exists(icon_path):
+        app.setWindowIcon(QIcon(icon_path))
     window = MBGCalculator()
     window.show()
     sys.exit(app.exec())

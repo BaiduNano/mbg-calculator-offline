@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="17.500891mm"
+   height="17.500893mm"
+   viewBox="0 0 17.500891 17.500893"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="123.28398"
+       y="329.43512"
+       width="161.15884"
+       height="76.258133"
+       id="rect3" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-24.919749,-82.748782)">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect1"
+       width="17.500893"
+       height="17.500893"
+       x="24.91975"
+       y="82.748787"
+       ry="2.7582929" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.32642"
+       id="rect2"
+       width="12.739616"
+       height="3.233861"
+       x="27.300388"
+       y="94.364182"
+       ry="1.6169304" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.37105108,0,0,0.37105108,-17.410927,-47.890385)"
+       id="text2"
+       style="font-size:53.3333px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff"><tspan
+         x="123.2832"
+         y="376.62302"
+         id="tspan2"><tspan
+           style="font-weight:bold;font-size:16px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
+           id="tspan1">MBG</tspan></tspan></text>
+  </g>
+</svg>
