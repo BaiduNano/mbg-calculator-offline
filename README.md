@@ -9,6 +9,7 @@ Aplikasi desktop untuk menghitung konversi Rupiah/USD ke hari MBG (Makan Bergizi
 - Pembaruan kurs USD/IDR secara live dari API
 - Format angka Indonesia (titik sebagai pemisah ribuan, koma sebagai desimal)
 - Multi mata uang (IDR / USD)
+- Dapat digunakan secara offline (data kurs tersimpan secara lokal)
 
 ## Cara Menjalankan
 
