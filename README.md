@@ -1,8 +1,13 @@
 # Kalkulator MBG
 
-[![Download](https://img.shields.io/github/v/release/BaiduNano/mbg-calculator-offline?label=Download%20App&logo=github&color=green)](https://github.com/BaiduNano/mbg-calculator-offline/releases)
+[![Download](https://img.shields.io/github/v/release/BaiduNano/mbg-calculator-offline?label=Download%20Here&logo=github&color=brightgreen&style=for-the-badge)](https://github.com/BaiduNano/mbg-calculator-offline/releases)
 
 Aplikasi desktop untuk menghitung konversi Rupiah/USD ke hari MBG (Makan Bergizi Gratis).
+
+## Tangkapan Layar
+
+![Screenshot 1](res/screenshots/screenshot1.png)
+![Screenshot 2](res/screenshots/screenshot2.png)
 
 ## Fitur
 
