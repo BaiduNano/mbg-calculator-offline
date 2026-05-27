@@ -6,8 +6,10 @@ Aplikasi desktop untuk menghitung konversi Rupiah/USD ke hari MBG (Makan Bergizi
 
 ## Tangkapan Layar
 
-![Screenshot 1](res/screenshots/screenshot1.png)
-![Screenshot 2](res/screenshots/screenshot2.png)
+<p align="center">
+  <img src="res/screenshots/screenshot1.png" width="300" alt="Screenshot 1">
+  <img src="res/screenshots/screenshot2.png" width="300" alt="Screenshot 2">
+</p>
 
 ## Fitur
 
